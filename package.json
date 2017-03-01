@@ -1,0 +1,27 @@
+{
+  "name": "egg-yunpay",
+  "version": "1.0.0",
+  "description": "云支付插件",
+  "main": "index.js",
+  "eggPlugin": {
+    "name": "yunpay"
+  },
+  "files": [
+    "app.js",
+    "lib",
+    "config"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guolianghu/egg-yunpay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guolianghu/egg-yunpay/issues"
+  },
+  "homepage": "https://github.com/guolianghu/egg-yunpay#readme"
+}
