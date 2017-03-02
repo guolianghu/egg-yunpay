@@ -5,7 +5,7 @@
 
 exports.yunpay = {
     client: {
-        appid: '',
+        partner: '',
         secret: '',
         gate_url: '',
     },
