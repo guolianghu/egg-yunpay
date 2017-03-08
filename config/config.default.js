@@ -11,4 +11,5 @@ exports.yunpay = {
         terminalType: 'JSAPI',
     },
     useAgent: false,
+
 }
