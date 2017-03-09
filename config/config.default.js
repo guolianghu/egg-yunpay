@@ -8,7 +8,7 @@ exports.yunpay = {
         partner: '',
         secret: '',
         gate_url: 'https://inte.ejupay.cn/gateway-outrpc/acquirer/interact',
-        terminalType: 'JSAPI',
+        terminalType: 'WEB',
     },
     useAgent: false,
 
