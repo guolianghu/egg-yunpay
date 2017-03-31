@@ -7,8 +7,8 @@ exports.yunpay = {
     client: {
         partner: '',
         secret: '',
-        gate_url: 'https://inte.ejupay.cn/gateway-outrpc/acquirer/interact',
-        terminalType: 'WEB',
+        gate_url: 'https://inte2.ejupay.cn/gateway-outrpc/acquirer/interact',
+        terminalType: 'wechat',
     },
     useAgent: false,
 
